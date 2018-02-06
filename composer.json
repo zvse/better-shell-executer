@@ -1,7 +1,7 @@
 {
   "name": "ShellExecutor",
   "description": "Library to execure shell scripts from the PHP.",
-  "homepage": "https://github.com/zvse/better-shell-executor",
+  "homepage": "https://github.com/zvse/shell-executor",
   "type": "Library",
   "keywords": [
     "shell",
