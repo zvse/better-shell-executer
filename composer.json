@@ -1,0 +1,23 @@
+{
+  "name": "ShellExecutor",
+  "description": "Library to execure shell scripts from the PHP.",
+  "homepage": "https://github.com/zvse/better-shell-executor",
+  "type": "Library",
+  "keywords": [
+    "shell",
+    "execute"
+  ],
+  "authors": [
+    {
+      "name": "zvse"
+    }
+  ],
+  "require": {
+    "php": ">= 5.6"
+  },
+  "autoload": {
+    "psr-0": {
+      "ShellExecutor\\": "src/"
+    }
+  }
+}

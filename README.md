@@ -1,4 +1,7 @@
-php-shell-executer
+PHP Shell executor
 ==================
 
-A simple shell executer script that kills processes that run for too long
+Allows to execute shell commands from the PHP.
+
+Based on the php-shell-executer library.
+https://github.com/peeter-tomberg/php-shell-executer
